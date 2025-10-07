@@ -1,0 +1,10 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "VBNET.xaml",
+      "uniqueId": "938b3547-16de-4fad-88a2-c1da2c54175f",
+      "type": "process"
+    }
+  ]
+}
